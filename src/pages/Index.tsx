@@ -72,6 +72,46 @@ const algorithms: Algorithm[] = [
     image: "https://miro.medium.com/v2/resize:fit:1001/0*7fDsAPlAoFEca0sW.png",
     implemented: false,
   },
+  {
+    id: "bfs",
+    name: "Breadth First Search",
+    category: "Search",
+    description: "Graph traversal that explores the graph level by level",
+    image: "",
+    implemented: false
+  },
+  {
+    id: "dfs",
+    name: "Depth First Search",
+    category: "Search",
+    description: "Graph traversal that explores the graph as far as possible on each branch before backtracking and moving on",
+    image: "",
+    implemented: false
+  },
+  {
+    id: "astar",
+    name: "A-Star Algorithm",
+    category: "Graph",
+    description: "Graph traversal for pathfinding by finding the shortest path",
+    image: "",
+    implemented: false
+  },
+  {
+    id: "binary-tree",
+    name: "Binary Tree",
+    category: "Data Structure",
+    description: "A tree who has only two children nodes for every parent",
+    image: "",
+    implemented: false
+  },
+  {
+    id: "sliding-window",
+    name: "Sliding Window",
+    category: "Technique",
+    description: "Uses the results of the previous window to compute for the following",
+    image: "",
+    implemented: false
+  }
 ];
 
 const categories = ["All", ...Array.from(new Set(algorithms.map(a => a.category)))];
