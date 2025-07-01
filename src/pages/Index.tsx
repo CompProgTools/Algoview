@@ -29,7 +29,7 @@ const algorithms: Algorithm[] = [
     name: "Linear Search",
     category: "Search", 
     description: "Sequential search through array elements",
-    image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=400&h=250&fit=crop",
+    image: "https://media.geeksforgeeks.org/wp-content/uploads/20230307101747/Screenshot-2023-03-07-101704.png",
     implemented: true,
   },
   {
