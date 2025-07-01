@@ -37,7 +37,7 @@ const algorithms: Algorithm[] = [
     name: "Merge Sort",
     category: "Sorting",
     description: "Divide and conquer sorting algorithm",
-    image: "https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?w=400&h=250&fit=crop",
+    image: "",
     implemented: false,
   },
   {
