@@ -37,7 +37,7 @@ const algorithms: Algorithm[] = [
     name: "Merge Sort",
     category: "Sorting",
     description: "Divide and conquer sorting algorithm",
-    image: "",
+    image: "https://www.honeybadger.io/images/blog/posts/ruby-merge-sort/mergesort.png",
     implemented: false,
   },
   {
@@ -45,7 +45,7 @@ const algorithms: Algorithm[] = [
     name: "Dijkstra's Algorithm",
     category: "Graph",
     description: "Find shortest paths in weighted graphs",
-    image: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=400&h=250&fit=crop",
+    image: "https://miro.medium.com/v2/resize:fit:875/1*rX7jt8J61Pyeu6Qb98mXUg.jpeg",
     implemented: false,
   },
   {
@@ -53,7 +53,7 @@ const algorithms: Algorithm[] = [
     name: "Linked List",
     category: "Data Structure",
     description: "Dynamic linear data structure",
-    image: "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=400&h=250&fit=crop",
+    image: "https://framerusercontent.com/images/tLmeI11H447kbfs3gNzhsLt5hLE.png",
     implemented: false,
   },
   {
@@ -61,7 +61,7 @@ const algorithms: Algorithm[] = [
     name: "Stack",
     category: "Data Structure",
     description: "Last In First Out (LIFO) structure",
-    image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=400&h=250&fit=crop",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQALrhBzPAYZj3ekpiAqKDw52YGHJW9n5K1TQ&s",
     implemented: false,
   },
   {
@@ -69,7 +69,7 @@ const algorithms: Algorithm[] = [
     name: "Queue",
     category: "Data Structure", 
     description: "First In First Out (FIFO) structure",
-    image: "https://images.unsplash.com/photo-1581090464777-f3220bbe1b8b?w=400&h=250&fit=crop",
+    image: "https://miro.medium.com/v2/resize:fit:1001/0*7fDsAPlAoFEca0sW.png",
     implemented: false,
   },
 ];
