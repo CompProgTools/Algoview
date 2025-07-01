@@ -261,9 +261,9 @@ const LinearSearchTry = () => {
                   <div>
                     <strong>Steps:</strong>
                     <ol className="list-decimal list-inside ml-4 mt-2 space-y-1">
-                      <li>Start from the first element</li>
-                      <li>Compare current element with target</li>
-                      <li>If equal, we found it!</li>
+                      <li>It starts from the first element (index 0)</li>
+                      <li>Compares each element with the target</li>
+                      <li>If it's equal, it means you found it</li>
                       <li>If not, move to next element</li>
                       <li>Repeat until found or end of array</li>
                     </ol>
