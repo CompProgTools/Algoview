@@ -21,7 +21,7 @@ const algorithms: Algorithm[] = [
     name: "Binary Search",
     category: "Search",
     description: "Efficiently find elements in sorted arrays",
-    image: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+    image: "https://media.geeksforgeeks.org/wp-content/uploads/20240506155201/binnary-search-.webp",
     implemented: true,
   },
   {
